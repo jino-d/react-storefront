@@ -1,6 +1,6 @@
 import { BiLogIn } from "react-icons/bi"
 
-export default function Header(params) {
+export default function Header() {
    return (
         <div className="h-[100px] bg-rose-500 shadow-lg flow-root">
             <div className="flex">
